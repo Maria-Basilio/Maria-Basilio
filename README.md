@@ -1,10 +1,3 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="./github-banner.png" width="100%" alt="Maria Eduarda Basilio - Software Engineering Portfolio" />
-</div>
-
-<br>
-
 <!-- ABOUT -->
 <h2 align="center">♡ About me</h2>
 
