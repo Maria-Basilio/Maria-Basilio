@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center" width="220">
-        <img src="./mypixel-avatar.png" width="180" alt="Maria's pixel avatar">
+        <img src="./my-pixel-avatar.png" width="180" alt="My pixel avatar">
       </td>
       <td align="left" bgcolor="#713047" width="420">
         <h2>♡ MARIA.EXE — ONLINE</h2>
