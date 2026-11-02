@@ -29,10 +29,9 @@ I enjoy exploring different areas of software development, especially backend en
 
 I'm constantly learning, experimenting with new technologies, and developing projects to strengthen my technical skills.
 
-- ♡ Software Engineering student
-- ✦ Interested in Backend Development and Artificial Intelligence
-- ⌘ Exploring Python, APIs, databases, and software architecture
-- ☁️ Learning by building real-world projects
+- Software Engineering student
+-  Interested in Backend Development and Artificial Intelligence
+-  Exploring Python, APIs, databases, and software architecture
 
 ---
 
