@@ -7,7 +7,7 @@
         <img src="./my-pixel-avatar.png" width="180" alt="My pixel avatar">
       </td>
       <td align="left" bgcolor="#713047" width="420">
-        <h2>♡ MARIA.EXE — ONLINE</h2>
+        <h2>♡ MARIA BASILIO — ONLINE</h2>
         <h3>HELLO, WORLD!</h3>
         <p><strong>I'm Maria Eduarda Basilio.</strong></p>
         <p>Software Engineering student.</p>
