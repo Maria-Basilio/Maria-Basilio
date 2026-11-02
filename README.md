@@ -1,125 +1,153 @@
-<!-- ABOUT -->
-<h2 align="center">♡ About me</h2>
-
-<p align="center">
-  I'm a Software Engineering student interested in building practical software solutions,
-  exploring backend development, Python, and artificial intelligence.
-  <br>
-  I enjoy turning ideas into projects and learning by building.
-</p>
-
-<br>
-
-<!-- INTERESTS -->
-<h2 align="center">♡ Areas of interest</h2>
+<!-- ✦ MARIA EDUARDA BASILIO — GITHUB PROFILE ✦ -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend_Development-713047?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-A65D78?style=flat-square" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-E8C5D1?style=flat-square&logoColor=713047" />
-  <img src="https://img.shields.io/badge/REST_APIs-713047?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software_Engineering-A65D78?style=flat-square" />
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <img src="./my-avatar.png" width="180" alt="Maria's pixel avatar">
+      </td>
+      <td align="left" bgcolor="#713047" width="420">
+        <h2>♡ MARIA.EXE — ONLINE</h2>
+        <h3>HELLO, WORLD!</h3>
+        <p><strong>I'm Maria Eduarda Basilio.</strong></p>
+        <p>Software Engineering student.</p>
+        <p>Building ideas into software.</p>
+        <br>
+        <strong>[ EXPLORE MY WORLD ]</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+---
+
+<h2 align="center">✦ ABOUT ME</h2>
+
+I'm a Software Engineering student passionate about technology, problem-solving, and building applications that turn ideas into practical solutions.
+
+I enjoy exploring different areas of software development, especially backend engineering, artificial intelligence, and automation.
+
+I'm constantly learning, experimenting with new technologies, and developing projects to strengthen my technical skills.
+
+- ♡ Software Engineering student
+- ✦ Interested in Backend Development and Artificial Intelligence
+- ⌘ Exploring Python, APIs, databases, and software architecture
+- ☁️ Learning by building real-world projects
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center">♡ Featured projects</h2>
+<h2 align="center">✧ WHAT I'M INTERESTED IN</h2>
 
-<h3>01. Nexus ITAM — Software Asset Management</h3>
+<div align="center">
 
-A software asset and license management system designed to centralize inventory, suppliers, licenses, costs, and updates, with local AI-powered recommendations.
+| Area | Interests |
+|:---:|---|
+| Backend Development | REST APIs, Python, application architecture |
+| Artificial Intelligence | AI agents, automation, language models |
+| Data & Databases | SQL, data management, SQLite |
+| Software Development | Problem-solving, clean code, practical applications |
 
-`Python` `FastAPI` `SQLite` `JavaScript` `Ollama`
-
-[View repository →](https://github.com/Maria-Basilio/gestao-softwares)
+</div>
 
 ---
 
-<h3>02. Logistics AI Agent</h3>
+<h2 align="center">♡ FEATURED PROJECTS</h2>
+
+### 01. Nexus ITAM — Software Asset Management
+
+A software asset and license management system designed to centralize inventory, suppliers, licenses, costs, and updates, with AI-powered recommendations.
+
+**Technologies:** Python · FastAPI · SQLite · JavaScript · Ollama
+
+[↗ View Repository](https://github.com/Maria-Basilio/gestao-softwares)
+
+### 02. Logistics AI Agent
 
 An AI agent project focused on supporting logistics operations through data analysis and operational recommendations.
 
-`Python` `AI Agents` `Ollama` `pytest`
+**Technologies:** Python · AI Agents · Ollama · pytest
 
-[View repository →](https://github.com/Maria-Basilio/logistics-agent)
+[↗ View Repository](https://github.com/Maria-Basilio/logistics-agent)
 
----
-
-<h3>03. Voice Mail Local</h3>
+### 03. Voice Mail Local
 
 A local voice messaging assistant that records audio, transcribes messages, translates text, and generates translated audio files.
 
-`Python` `Whisper` `NLLB-200` `PyTorch`
+**Technologies:** Python · Whisper · NLLB-200 · PyTorch
 
-[View repository →](https://github.com/Maria-Basilio/voice-mail-local)
+[↗ View Repository](https://github.com/Maria-Basilio/voice-mail-local)
 
----
-
-<h3>04. Speech AI Lab</h3>
+### 04. Speech AI Lab
 
 A Python project exploring speech-to-text, text-to-speech, and speech processing workflows.
 
-`Python` `OpenAI Audio API`
+**Technologies:** Python · OpenAI Audio API
 
-[View repository →](https://github.com/Maria-Basilio/speech-ai-lab)
+[↗ View Repository](https://github.com/Maria-Basilio/speech-ai-lab)
 
----
+### 05. Avatar Lab — Retro Pixel Edition
 
-<h3>05. Avatar Lab</h3>
+A retro-inspired pixel avatar creator where users can customize characters, save their creations, and build their own collection.
 
-A retro-inspired pixel avatar creator where users can customize characters, save them to a collection, and export their creations.
+**Technologies:** HTML5 · CSS3 · JavaScript · Local Storage
 
-`HTML` `CSS` `JavaScript` `Local Storage`
+[↗ View Repository](https://github.com/Maria-Basilio/avatar-lab)
 
-[View repository →](https://github.com/Maria-Basilio/avatar-lab)
-
----
-
-<h3>06. Vinheria Agnello</h3>
+### 06. Vinheria Agnello
 
 An academic web development project focused on wine inventory management and JavaScript programming concepts.
 
-`HTML` `CSS` `JavaScript`
+**Technologies:** HTML5 · CSS3 · JavaScript
 
-[View repository →](https://github.com/Maria-Basilio/vinheria-agnello-checkpoint3)
-
-<br>
+[↗ View Repository](https://github.com/Maria-Basilio/vinheria-agnello-checkpoint3)
 
 ---
 
-<!-- TECHNOLOGIES -->
-<h2 align="center">♡ Technologies & tools</h2>
+<h2 align="center">⌘ TECHNOLOGIES & TOOLS</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-713047?style=for-the-badge&logo=python&logoColor=F9EFF2" />
-  <img src="https://img.shields.io/badge/JavaScript-A65D78?style=for-the-badge&logo=javascript&logoColor=F9EFF2" />
-  <img src="https://img.shields.io/badge/FastAPI-713047?style=for-the-badge&logo=fastapi&logoColor=F9EFF2" />
-  <img src="https://img.shields.io/badge/SQLite-A65D78?style=for-the-badge&logo=sqlite&logoColor=F9EFF2" />
-  <img src="https://img.shields.io/badge/Ollama-713047?style=for-the-badge&logo=ollama&logoColor=F9EFF2" />
-  <img src="https://img.shields.io/badge/Git-E8C5D1?style=for-the-badge&logo=git&logoColor=713047" />
-  <img src="https://img.shields.io/badge/GitHub-A65D78?style=for-the-badge&logo=github&logoColor=F9EFF2" />
-</p>
+<div align="center">
 
-<br>
+**Programming Languages**
+
+<img src="https://img.shields.io/badge/Python-713047?style=for-the-badge&logo=python&logoColor=F9EFF2" />
+<img src="https://img.shields.io/badge/JavaScript-A65D78?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-713047?style=for-the-badge&logo=html5&logoColor=F9EFF2" />
+<img src="https://img.shields.io/badge/CSS3-A65D78?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+
+**Backend & Databases**
+
+<img src="https://img.shields.io/badge/FastAPI-713047?style=for-the-badge&logo=fastapi&logoColor=F9EFF2" />
+<img src="https://img.shields.io/badge/SQLite-A65D78?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+
+**AI & Development Tools**
+
+<img src="https://img.shields.io/badge/Ollama-713047?style=for-the-badge&logo=ollama&logoColor=F9EFF2" />
+<img src="https://img.shields.io/badge/Git-A65D78?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-713047?style=for-the-badge&logo=github&logoColor=F9EFF2" />
+
+</div>
 
 ---
 
-<!-- FOOTER -->
-<h2 align="center">♡ Let's connect</h2>
+<h2 align="center">✦ CURRENTLY EXPLORING</h2>
 
-<p align="center">
-  Always open to learning, collaborating, and connecting with people passionate about technology.
-</p>
+- Backend development and API design
+- Artificial Intelligence and AI-powered applications
+- Database management and SQL
+- Software architecture and best development practices
 
-<p align="center">
-  <a href="https://github.com/Maria-Basilio">
-    <img src="https://img.shields.io/badge/GitHub-713047?style=for-the-badge&logo=github&logoColor=F9EFF2" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <sub>Building, learning, and improving — one project at a time. ♡</sub>
-</p>
+<div align="center">
+
+<h2>♡ THANKS FOR VISITING!</h2>
+
+<p>Every project is another level unlocked.</p>
+
+<strong>Keep learning. Keep building. Keep creating.</strong>
+
+<br>
+
+<sub>Made with ♡ by Maria Eduarda Basilio</sub>
+
+</div>
