@@ -107,25 +107,6 @@ An academic web development project focused on wine inventory management and Jav
 
 ---
 
-<!-- GITHUB STATS -->
-
-<h2 align="center">♡ GitHub statistics</h2>
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Maria-Basilio&show_icons=true&hide_border=true&bg_color=F9EFF2&title_color=713047&text_color=713047&icon_color=A65D78"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maria-Basilio&layout=compact&hide_border=true&bg_color=F9EFF2&title_color=713047&text_color=713047&langs_count=6"
-    alt="Most used programming languages"
-  />
-</div>
-
----
-
 <!-- FOOTER -->
 <h2 align="center">♡ Let's connect</h2>
 
